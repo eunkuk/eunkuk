@@ -1,5 +1,10 @@
-## 💾 필요한 것 또는 💭 생각한 것을 만들어 저장하는 공간 ✨
-## 💾 A space for creating and storing what's needed or 💭 what's imagined ✨
+---
+
+💾 필요한 것 또는 💭 생각한 것을 만들어 저장하는 공간 ✨
+
+💾 A space for creating and storing what's needed or 💭 what's imagined ✨
+
+---
 
 <!--
 **eunkuk/eunkuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
